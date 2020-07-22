@@ -1,3 +1,3 @@
 # EDA Hacks
-## 1) QGrid
-![QGrid](demo_gifs/qgrid_demo.gif) on DataFrames
+## 1) QGrid on DataFrames
+![QGrid](demo_gifs/qgrid_demo.gif) 
