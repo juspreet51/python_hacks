@@ -1,25 +1,13 @@
-# collapsible markdown?
+## collapsible markdown?
 
-<details>
-<b>Method 1</b>
+<details><summary>CLICK ME</summary>
+<p>
 
-## yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</details>
-
-<details>
-<b>Method 2</b>
-
-## yes, even hidden code blocks!
+#### yes, even hidden code blocks!
 
 ```python
 print("hello world!")
 ```
 
+</p>
 </details>
-
-
