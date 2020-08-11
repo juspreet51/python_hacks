@@ -6,7 +6,7 @@
 ## 2) PandasQuick Analysis
 ![Pandas_Quick_Analysis.gif](demo_gifs/Pandas_Quick_Analysis.gif)
 
-## 2) TQDM
+## 3) TQDM: ProgressBar
 ![Pandas_Quick_Analysis.gif](demo_gifs/tqdm.gif)
 ```python
 from tqdm import tqdm
@@ -22,3 +22,5 @@ for outer_loop in progress_bar:
         sleep(0.5)
         progress_bar.set_description(f"Province: {outer_loop}; UPC: {inner_loop}")
 ```
+## 4) Plotting Deceision Tree :
+![Pandas_Quick_Analysis.gif](demo_gifs/deceision_tree_plot.gif)
